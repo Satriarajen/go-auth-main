@@ -19,6 +19,7 @@ func main() {
 	}))
 
 	routes.Setup(app)
+	// siuuuuu
 
 	app.Listen(":8000")
 }
